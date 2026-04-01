@@ -1,0 +1,21 @@
+# Ignore node dependencies
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: build folders (if you add later)
+dist/
+build/
+
+# Optional: VS Code settings (if you want)
+.vscode/
